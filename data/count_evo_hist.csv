@@ -1,0 +1,7 @@
+"rn","V1","V2","V3","organ","type","sample_size"
+"1","plant_organ_afflictedleaves:study_typea",-0.0163968847324726,-0.816371564259554,0.783577794794609,"Flower","A",8
+"2","plant_organ_afflictedseed:study_typea",-0.0142687214373494,-0.60559912363943,0.577061680764732,"Leaf","A",15
+"3","plant_organ_afflictedstem:study_typea",-0.237528707111662,-1.0270496844969,0.551992270273573,"Seed","A",9
+"4","plant_organ_afflictedleaves:study_typed",-1.53868433947123,-1.98677300216159,-1.09059567678087,"Stem","A",33
+"5","plant_organ_afflictedseed:study_typed",-0.35469134097079,-1.11218760969542,0.402804927753842,"Flower","D",9
+"6","plant_organ_afflictedstem:study_typed",-0.326189747637033,-0.832062751991773,0.179683256717706,"Leaf","D",22

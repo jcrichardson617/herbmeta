@@ -1,0 +1,12 @@
+"rn","V1","V2","V3","order","type","count"
+"1","insect_ordercoleoptera:study_typea",-0.330970785408012,-0.518341395935851,-0.143600174880173,"Coleoptera","A",169
+"2","insect_orderdiptera:study_typea",0.0598566173695622,-0.566690432782425,0.686403667521549,"Diptera","A",14
+"3","insect_orderhemiptera:study_typea",-0.685904429878463,-1.0093235221741,-0.36248533758283,"Hemiptera","A",63
+"4","insect_orderhymenoptera:study_typea",-1.547841622471,-2.44777494348294,-0.647908301459057,"Hymenoptera","A",9
+"5","insect_orderlepidoptera:study_typea",-1.24068114594873,-1.52189164073884,-0.959470651158624,"Lepidoptera","A",76
+"6","insect_orderorthoptera:study_typea",-0.619294906842606,-1.23626050941613,-0.00232930426908251,"Orthoptera","A",15
+"7","insect_ordercoleoptera:study_typed",-0.99742243395232,-1.15698677971621,-0.837858088188426,"Coleoptera","D",245
+"8","insect_orderdiptera:study_typed",1.20095824642855,-0.182458842006038,2.58437533486314,"Diptera","D",3
+"9","insect_orderhemiptera:study_typed",-0.612487827198814,-1.02453142881749,-0.200444225580138,"Hemiptera","D",33
+"10","insect_orderlepidoptera:study_typed",-0.624856303248686,-1.01054781779401,-0.239164788703361,"Lepidoptera","D",45
+"11","insect_orderorthoptera:study_typed",-2.0848760959868,-3.03637665530479,-1.13337553666881,"Orthoptera","D",10

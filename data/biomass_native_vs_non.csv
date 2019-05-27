@@ -1,0 +1,15 @@
+"rn","V1","V2","V3","organ","type","sample_size"
+"1","plant_organ_afflictedflower:study_typea",-0.59517190936144,-1.47448396505887,0.284140146335994,"Flower","A",7
+"2","plant_organ_afflictedfruit:study_typea",0.520614647824678,-0.673660050569293,1.71488934621865,"Fruit","A",4
+"3","plant_organ_afflictedleaves:study_typea",-1.22524753492362,-1.62616202482277,-0.824333045024473,"Leaf","A",39
+"4","plant_organ_afflictedroots:study_typea",-0.902501466161396,-1.16501314992259,-0.639989782400202,"Root","A",95
+"5","plant_organ_afflictedseed:study_typea",-0.858397512663917,-1.37130868514127,-0.345486340186565,"Seed","A",23
+"6","plant_organ_afflictedstem:study_typea",-0.735145151367041,-0.963380537509038,-0.506909765225044,"Stem","A",123
+"7","plant_organ_afflictedwhole organism:study_typea",-0.652476522482468,-0.870553904196856,-0.434399140768081,"Whole","A",128
+"8","plant_organ_afflictedleaves:study_typeb",-0.429967345130848,-0.990383537518098,0.130448847256402,"Leaf","B",18
+"9","plant_organ_afflictedstem:study_typeb",-0.361647765186567,-0.870008029086546,0.146712498713413,"Stem","B",25
+"10","plant_organ_afflictedwhole organism:study_typeb",-0.611815212167028,-1.67534553358294,0.451715109248887,"Whole","B",5
+"11","plant_organ_afflictedleaves:study_typec",-1.41482058136297,-2.88102887542479,0.051387712698856,"Leaf","C",3
+"12","plant_organ_afflictedroots:study_typec",-0.744673596584735,-1.33164701417769,-0.15770017899178,"Root","C",20
+"13","plant_organ_afflictedstem:study_typec",-1.0841849005333,-1.66123028105898,-0.507139520007618,"Stem","C",21
+"14","plant_organ_afflictedwhole organism:study_typec",-0.0458544755876735,-0.665042833006175,0.573333881830828,"Whole","C",19

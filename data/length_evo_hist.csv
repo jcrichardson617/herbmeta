@@ -1,0 +1,6 @@
+"rn","V1","V2","V3","organ","type","sample_size"
+"1","plant_organ_afflictedstem:study_typea",-0.464699400810157,-0.992539300129215,0.0631404985089014,"Stem","A","24"
+"2","plant_organ_afflictedroots:study_typed",-0.595377766442024,-1.65304519784762,0.462289664963573,"Whole","A","6"
+"3","plant_organ_afflictedstem:study_typed",-1.06419496130425,-1.47373021087459,-0.654659711733901,"Root","D","44"
+"4","typeb",20,20,20,"Stem","B","1"
+"5","typec",20,20,20,"Stem","C","1"
